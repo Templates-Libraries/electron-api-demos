@@ -27,10 +27,10 @@ You can [download the latest release](https://github.com/electron/electron-api-d
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-$ git clone https://github.com/electron/electron-api-demos
+$ git clone https://github.com/Templates-Libraries/electron-api-demoss
 $ cd electron-api-demos
-$ npm install
-$ npm start
+$ yarn
+$ yarn run/dev
 ```
 
 If you don't wish to clone, you can [download the source code](https://github.com/electron/electron-api-demos/archive/master.zip).
